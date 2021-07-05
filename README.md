@@ -24,3 +24,7 @@
 ## Time
 
 - 12-13 hours
+
+## Possible Improvements
+
+- Watcher for the data file change to trigger the script

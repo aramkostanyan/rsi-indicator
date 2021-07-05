@@ -86,7 +86,6 @@ class CalculateRSI:
                 log.debug("Calculated RSI saved to: {}".format(self.export_filename))
 
             log.info("RSI calculation successfull.")
-            print(df.shape)
             time.sleep(60)
 
     def load_file2df(self, filename):
