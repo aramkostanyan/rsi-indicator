@@ -1,0 +1,6 @@
+.idea
+.vscode
+*.zip
+*.log
+*nosync*
+.DS_Store
